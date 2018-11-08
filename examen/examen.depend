@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1541646175 source:c:\users\javier\desktop\proyecto.2018\examen\main.cpp
+	<iostream>
+	<Perro.h>
+	<Loro.h>
+	<Gato.h>
+	<Animal2.h>
+	<Animalarray.h>
+
+1541633800 source:c:\users\javier\desktop\proyecto.2018\examen\src\animal.cpp
+	"Animal.h"
+
+1541633800 c:\users\javier\desktop\proyecto.2018\examen\include\animal.h
+	<string>
+	<iostream>
+
+1541633577 source:c:\users\javier\desktop\proyecto.2018\examen\src\perro.cpp
+	"Perro.h"
+	"string"
+	<iostream>
+
+1541633577 c:\users\javier\desktop\proyecto.2018\examen\include\perro.h
+	<iostream>
+	<string>
+	"Animal.h"
+
+1541633577 source:c:\users\javier\desktop\proyecto.2018\examen\src\loro.cpp
+	"Loro.h"
+	"string"
+	<iostream>
+
+1541633577 c:\users\javier\desktop\proyecto.2018\examen\include\loro.h
+	"string"
+	"Animal.h"
+	"iostream"
+
+1541633731 source:c:\users\javier\desktop\proyecto.2018\examen\src\gato.cpp
+	"Gato.h"
+	"string"
+	<iostream>
+
+1541633731 c:\users\javier\desktop\proyecto.2018\examen\include\gato.h
+	<Animal.h>
+	"iostream"
+	<string>
+
+1541635075 source:c:\users\javier\desktop\proyecto.2018\examen\src\animal2.cpp
+	"Animal2.h"
+
+1541635063 c:\users\javier\desktop\proyecto.2018\examen\include\animal2.h
+	<string>
+	<iostream>
+
+1541646223 source:c:\users\javier\desktop\proyecto.2018\examen\src\animalarray.cpp
+	"Animalarray.h"
+	"Animal2.h"
+	"iostream"
+
+1541645812 c:\users\javier\desktop\proyecto.2018\examen\include\animalarray.h
+	<Animal2.h>
+
